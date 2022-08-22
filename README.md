@@ -6,3 +6,4 @@ A detailed reference on the method can be found here:
 
 
 Copyright (C) 2015, Carlo Motta mottac@tcd.ie
+
